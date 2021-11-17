@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#!/usr/bin/expect
 #Configures the pins for Connect 4
 
 config-pin P8_33 eqep

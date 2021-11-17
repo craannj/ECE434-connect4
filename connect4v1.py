@@ -247,9 +247,6 @@ while True:
             xpos_old = 0
             ypos = 1
             player = 1
-    
-    
-    
     #print(screen)
     time.sleep(0.25)
     
